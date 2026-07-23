@@ -5,3 +5,4 @@ y=5
 print(y*x)
 print(x+y)
 print(x-y)
+print("khaled")
